@@ -1,0 +1,11 @@
+
+Spork is a prototyp-equality continuations-based web framework built on the web server found as the net/http* modules in an old version of the blackhole-libs repo, see https://github.com/pereckerdal/blackhole-libs .
+
+As of 2010, Spork and the net/http-* modules are OBSOLETE.
+
+The net/http* modules are REPLACED by the Sack web server framework, found on https://github.com/pereckerdal/sack .
+
+
+Spork does implement some nice continuation-based web framework ideas, in a particular a construct |fork| that [Per you may fill out the details here]. It has some prototypal javascript code generation features. Its sourcecode may serve as some inspiration to anyone who wants to make a continuations-based web framework.
+
+
